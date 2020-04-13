@@ -3,6 +3,8 @@
 ### This would be a Heading 3
 
 ### Growth Mindset
+The "growth mindset" is key to success in a fast-paced learning environment. This mindset is a set of beliefs and processes that will help you adapt and overcome obstacles. Rather than giving up when running into seemingly-insurmountable difficulties, those in a growth mindset use the challenges presented to them as fuel to power further development.
+
 - This is my first reminder of how to stay in a growth mindset.
 - This is my second reminder.
 - This is my third reminder.
