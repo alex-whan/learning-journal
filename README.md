@@ -26,4 +26,4 @@ Making sure you keep up the **growth mindset** ensures that nothing can stand in
 - Every problem you solve becomes a benchmark by which you can quantify your growth and future success.
 - Learning a new skill is *always* possible. Every person who has ever come before you started somewhere.
 
-Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Learning Journal!](https://github.com/alex-whan/learning-journal)
+Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Learning Journal!](https://alex-whan.github.io/learning-journal/)
