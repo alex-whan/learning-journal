@@ -1,5 +1,8 @@
 # learning-journal
 ## Code Fellows - Code 102 Learning Journal
+
+![At Big Almaty Lake, Kazakhstan](https://github.com/alex-whan/learning-journal/blob/master/IMG_9739%20-%20Copy%20(3).JPG)
+
 ### About Me
 
 Hey there! My name is Alex, and I'm a student in Code Fellows' Code 102 course. A born-and-raised Washingtonian, I've long been interested in learning to code thanks to the thriving technology industry in my beautiful hometown of Seattle. Pacific Northwest is best, as they say.
