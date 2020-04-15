@@ -10,7 +10,7 @@ Hey there! My name is Alex, and I'm a student in Code Fellows' Code 102 course. 
 - [The Growth Mindset](./journal/GrowthMindset.md)
 - [Learning Markdown](./journal/Read01-learning-markdown.md)
 - [The Coder's Computer](./journal/Read02-the-coders-computer.md)
-- [Revisions and the Cloud](./journal/Read03-Revisions-and-the-cloud.md)
+- [Revisions and the Cloud](./journal/Read03-Revisions-and-the-Cloud.md)
 - [Structuring Web Pages with HTML](./journal/Read04-Structure-with-HTML.md)
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Learning Journal!](https://alex-whan.github.io/learning-journal/)
