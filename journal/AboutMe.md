@@ -1,9 +1,6 @@
-# learning-journal
-## Code Fellows - Code 102 Learning Journal
+# About Me
 
-![At Big Almaty Lake, Kazakhstan](.images/IMG_9739 - Copy (3).JPG)
-
-### About Me
+![At Big Almaty Lake, Kazakhstan](https://lh3.googleusercontent.com/wfuzSWDtcH-WpGNAys9sxbcemu9SL-KRNdDSJDf9fNjEanBWnXRA_tka8ViojJeGjYS6ATXPHFnp4QhA16KltprE-bSTvyMS37iVFlZp9PYeUwlG9YQfevvfkb37iUAe9riTOaUmMIeRhdBFlDcYr0BadxtaJfuzjbMe5N7dZMoECB0hv8Ccradw11LYZQEJBULFHA0hfONn7iUC79yq3Zlw5bEQe3UkFm8tzq06PFJ41KNGNyHDT2H8GCvD-V-UPEriZH_v5o-d-q9h-zWZbp4_I4n2rUSZkmDkn06rE-czal4icO-Z7PB_pGuLMBw1in2CzvPkuYqYjZVnVgD_5FfCRAGWUizzcIPqczx6SMjvNlSGvAakJJ8m0Gmn4waxloZ0-Mn0cqh7lcUIjlkQIQkMy8vlIUfxHwFQOvuCUKYXUJlrutKwqCEZsd4bJA8yUDtErqb-TvdOGQNoARvnzzcUneZnQoMvLkk4hPAaOEqMsQvfYPI_V6STaULdzepY-d6wcB6cH2xU7epJAdFC2hZwDHnbQfhsUN1yjMbqBK9Sm00Alz0YOwJLVe9CAO_PoqU0Frl7zPx6_Sot-ck6_HOBq22qGWDaTbu_lnHZzVS1hxvurHVFc6IbT-NSiiHjEgiGNfLKoblmCWPR8loTlQPJ5_jFrGyljbinCvBhSWmq74aP-iusLbrSi9jD=w1250-h937-no)
 
 Hey there! My name is Alex, and I'm a student in Code Fellows' Code 102 course. A born-and-raised Washingtonian, I've long been interested in learning to code thanks to the thriving technology industry in my beautiful hometown of Seattle. Pacific Northwest is best, as they say.
 
@@ -13,19 +10,5 @@ As someone fascinated by linguistics and languages, especially their acquisition
 
 My personal pursuits including gaming (I'm a dedicated fan of Nintendo products), captaining my beloved Underdog flag football team (four-time league champs!), and taking in the natural beauty of every continent on Earth (currently on a quest to visit as many U.S. National Parks as possible). 
 
-### Growth Mindset
-The "growth mindset" is key to success in a fast-paced learning environment. This mindset is a set of beliefs and processes that will help you adapt and overcome obstacles. Rather than folding when running into seemingly-insurmountable difficulties, those in a growth mindset use the challenges presented to them as fuel to power further development and push through the metaphorical roadblock. 
-
-In the [words of the immortal Peppy Hare](https://www.youtube.com/watch?v=txWWi2n76FI) in the 1997 Nintendo classic *Star Fox 64*:
-
-> *"Never give up! Trust your instincts!"*
-
-![Peppy Hare](https://media1.tenor.com/images/6ce29a789969f0f611fa16c446097c97/tenor.gif)
-
-Making sure you keep up the **growth mindset** ensures that nothing can stand in your way. Always remember:
-
-- Seek out challenges - don't run from them. Adversity creates opportunity for development.
-- Every problem you solve becomes a benchmark by which you can quantify your growth and future success.
-- Learning a new skill is *always* possible. Every person who has ever come before you started somewhere.
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Learning Journal!](https://alex-whan.github.io/learning-journal/)
