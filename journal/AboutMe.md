@@ -12,3 +12,5 @@ My personal pursuits including gaming (I'm a dedicated fan of Nintendo products)
 
 
 Check out my [GitHub portfolio](https://github.com/alex-whan) or hop directly to my [Learning Journal!](https://alex-whan.github.io/learning-journal/)
+
+Return to the [Table of Contents](https://alex-whan.github.io/learning-journal/)

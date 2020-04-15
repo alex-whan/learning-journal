@@ -8,4 +8,4 @@ Text Editors are perhaps the most important vehicle through which developers cre
 
 1. Third, a wide selection of available extensions, when needed, is key - these plugins can help to "turbo charge" your code with features that might not be available in your software's base system.
 
-Return to the [Table of Contents](./journal/README.md)
+Return to the [Table of Contents](https://alex-whan.github.io/learning-journal/)

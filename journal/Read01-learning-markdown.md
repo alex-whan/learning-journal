@@ -14,4 +14,4 @@ For a real throwback experience, all the way to the beginning of this article, l
 
 It's so intuitive, I'm sure you can discern the rest! Such is the beauty and power of Markdown - as it's made the inner workings of this page accessible to the unititated (like myself!) on the very first go.
 
-Return to the [Table of Contents](./journal/README.md)
+Return to the [Table of Contents](https://alex-whan.github.io/learning-journal/)

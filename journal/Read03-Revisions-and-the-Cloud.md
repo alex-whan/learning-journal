@@ -55,4 +55,4 @@ Important commands:
 * ```git push origin master```
 * ```git status```
 
-Return to the [Table of Contents](./journal/README.md)
+Return to the [Table of Contents](https://alex-whan.github.io/learning-journal/)
