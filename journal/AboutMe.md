@@ -1,7 +1,7 @@
 # learning-journal
 ## Code Fellows - Code 102 Learning Journal
 
-![At Big Almaty Lake, Kazakhstan](https://github.com/alex-whan/learning-journal/blob/master/IMG_9739%20-%20Copy%20(3).JPG)
+![At Big Almaty Lake, Kazakhstan](.images/IMG_9739 - Copy (3).JPG)
 
 ### About Me
 
