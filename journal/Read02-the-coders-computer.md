@@ -7,3 +7,5 @@ Text Editors are perhaps the most important vehicle through which developers cre
 1. Secondly, keep an eye out for text editors with *syntax highlighting*. This handy feature uses a system of colors to differentiate different lines and elements of code - making for a much simpler navigation of a long document or page. Even more importantly, it can help to highlight errors and squash those infuriating bugs!
 
 1. Third, a wide selection of available extensions, when needed, is key - these plugins can help to "turbo charge" your code with features that might not be available in your software's base system.
+
+Return to the [Table of Contents](./journal/README.md)

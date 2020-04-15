@@ -12,3 +12,5 @@ Making sure you keep up the **growth mindset** ensures that nothing can stand in
 - Seek out challenges - don't run from them. Adversity creates opportunity for development.
 - Every problem you solve becomes a benchmark by which you can quantify your growth and future success.
 - Learning a new skill is *always* possible. Every person who has ever come before you started somewhere.
+
+Return to the [Table of Contents](./journal/README.md)

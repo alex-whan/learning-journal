@@ -13,3 +13,5 @@ Result? **I love coding.**
 For a real throwback experience, all the way to the beginning of this article, let's briefly exploring header. We can automatically accomplish different levels and sizes of headers with varying quantities of the "pound/#" sign, with the number of pound signs corresponding to the heading number. So, to replicate my excellent "Learning Markdown" title above, we'd use the code ```# Learning Markdown```. You'll notice that you only need the pound sign at the *beginning* of the header text to get the desired effect. The "What is Markdown" section, as a lowly header 2, would be written as ```## What is Markdown?```. 
 
 It's so intuitive, I'm sure you can discern the rest! Such is the beauty and power of Markdown - as it's made the inner workings of this page accessible to the unititated (like myself!) on the very first go.
+
+Return to the [Table of Contents](./journal/README.md)

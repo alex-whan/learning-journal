@@ -1,5 +1,4 @@
-# learning-journal
-## Code Fellows - Code 102 Learning Journal
+# Code Fellows - Code 102 Learning Journal
 
 ### About Me
 
