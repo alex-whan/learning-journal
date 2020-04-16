@@ -26,11 +26,11 @@ There are three different methods for specifying color in CSS:
 
 Example: rgb(100, 100, 10)
 
-1. Hex codes: These six-digit codes represent the amount of red, green, and blue in a color, preceded by a hash/pound.
+2. Hex codes: These six-digit codes represent the amount of red, green, and blue in a color, preceded by a hash/pound.
 
 Example: #ee3e80
 
-1. Color names: These use the names of 147 different predefined colors recognized by browsers.
+3. Color names: These use the names of 147 different predefined colors recognized by browsers.
 
 Example: DarkCyan, Blue, LightBlue
 
