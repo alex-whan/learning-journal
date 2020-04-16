@@ -1,4 +1,5 @@
 # The Coder's Computer
+
 ## The Text Editor
 Text Editors are perhaps the most important vehicle through which developers create and implement their projects, as they allow direct access to the inner workings and "guts" of a webpage, as well as director management of the content. There are several critical features in popular text editors that can help you to work your code with ease:
 

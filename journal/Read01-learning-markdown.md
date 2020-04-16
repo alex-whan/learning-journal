@@ -1,4 +1,5 @@
 # Learning Markdown
+
 ## What is Markdown?
 You may have heard the phrase "markup", but you best be ready to get mark*down* with markdown. Markdown is a simplistic syntax that focuses on *ease* of writing, reading, and generating HTML, making it much more accessible to beginners and pros alike. One of the most useful aspects of Markdown is the fact that users do not need much, if any, coding experience in order to use it.
 
