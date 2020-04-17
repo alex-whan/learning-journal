@@ -20,5 +20,4 @@
     * Output Results
 * All commands can be processed in **binary code** - the most basic part of software
 
-
 Return to the [Table of Contents](https://alex-whan.github.io/learning-journal/)
