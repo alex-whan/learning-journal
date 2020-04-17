@@ -70,9 +70,9 @@ Examples of JavaScript in Browsers:
 
 Top to Bottom:
 
-TOP: Global Variables
-MIDDLE: Function Declarations
-BOTTOM: Function Invocations
+* TOP: Global Variables
+* MIDDLE: Function Declarations
+* BOTTOM: Function Invocations
 
 **Function Invocation**: ```functionName();```
 

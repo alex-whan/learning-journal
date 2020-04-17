@@ -11,14 +11,14 @@
 
 ### Types of Comparison Operators
 
-`==` = is equal to ("soft equal")
-`===` = is strict equal to ("strict equal")
-`!=` = is not equal to
-`!==` = is strict not equal to
-`>` = greater than
-`<` = less than
-`>=` = greater than or equal to
-`<=` = less than or equal to
+* `==` = is equal to ("soft equal")
+* `===` = is strict equal to ("strict equal")
+* `!=` = is not equal to
+* `!==` = is strict not equal to
+* `>` = greater than
+* `<` = less than
+* `>=` = greater than or equal to
+* `<=` = less than or equal to
 
 **Structure of Comparison Operators:**
 
